@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=SetoSorcerer&color=5ce26f)
+![](https://komarev.com/ghpvc/?username=SetoSorcerer&color=FFE9B8)
